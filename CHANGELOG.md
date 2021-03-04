@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/zppack/template-project-std/compare/v1.1.0...v1.2.0) (2021-03-04)
+
+
+### Features
+
+* add default `.versionrc.js` to template for change log generation ([7be6f7e](https://github.com/zppack/template-project-std/commit/7be6f7e87793de443c425586239eeb5bbb38b891))
+
 ## 1.1.0 (2021-03-04)
 
 
