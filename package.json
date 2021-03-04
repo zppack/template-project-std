@@ -1,0 +1,24 @@
+{
+  "name": "template-project-std",
+  "version": "1.0.0",
+  "description": "A standard universal project template without anything more than an empty project need.",
+  "main": "index.js",
+  "scripts": {
+    "release": "standard-version",
+    "postrelease": "git push && git push origin --tags",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/zppack/template-project-std.git"
+  },
+  "author": "John Chan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zppack/template-project-std/issues"
+  },
+  "homepage": "https://github.com/zppack/template-project-std#readme",
+  "devDependencies": {
+    "standard-version": "^9.1.1"
+  }
+}

@@ -1,0 +1,8 @@
+# Keys to ask to input
+
+name
+description
+author
+{ key: "remote", title: "Git remote url: " }
+license
+homepage
