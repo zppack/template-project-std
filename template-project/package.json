@@ -1,7 +1,7 @@
 {
-  "name": "{name}",
+  "name": "{{name}}",
   "version": "1.0.0",
-  "description": "{description}",
+  "description": "{{description}}",
   "keywords": [],
   "main": "index.js",
   "scripts": {
@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "{remote}"
+    "url": "{{remote}}"
   },
-  "author": "{author}",
-  "license": "{license}",
+  "author": "{{author}}",
+  "license": "{{license}}",
   "bugs": {
     "url": ""
   },
-  "homepage": "{homepage}",
+  "homepage": "{{homepage}}",
   "dependencies": {},
   "devDependencies": {
     "standard-version": "^9.1.1"
