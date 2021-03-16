@@ -3,6 +3,6 @@
 name
 description
 author
-{ key: "remote", title: "Git remote url: " }
+{ name: "remote", message: "Git remote url: " }
 license
 homepage
