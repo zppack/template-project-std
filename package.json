@@ -1,6 +1,6 @@
 {
   "name": "template-project-std",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "description": "A standard universal project template without anything more than an empty project need.",
   "main": "index.js",
   "scripts": {

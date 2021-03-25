@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.4.0](https://github.com/zppack/template-project-std/compare/v1.3.0...v1.4.0) (2021-03-25)
+
+
+### Features
+
+* change `.zp-vars` to `.zp-vars.toml` to support TOML parsing and change file position ([f1bce0c](https://github.com/zppack/template-project-std/commit/f1bce0cb1f8447e06952e7bdeb04f74d4406f43f))
+
 ## [1.3.0](https://github.com/zppack/template-project-std/compare/v1.2.1...v1.3.0) (2021-03-16)
 
 
