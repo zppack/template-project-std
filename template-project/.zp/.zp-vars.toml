@@ -1,0 +1,11 @@
+# TOML v1.0
+# Variables will ask to input
+
+zpvars = [
+  'name', # same as { name = 'name' },
+  'description',
+  'author',
+  { name = 'remote', message = 'Git remote url: ' },
+  'homepage',
+  { name = 'license', default = 'MIT' },
+]
