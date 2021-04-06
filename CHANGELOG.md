@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.5.0](https://github.com/zppack/template-project-std/compare/v1.4.0...v1.5.0) (2021-04-06)
+
+
+### Features
+
+* add .zp-module.toml to support middlewares config ([50bad19](https://github.com/zppack/template-project-std/commit/50bad19803c9b2ac5ee29ef9086ef4af728635a7))
+
 ## [1.4.0](https://github.com/zppack/template-project-std/compare/v1.3.0...v1.4.0) (2021-03-25)
 
 
