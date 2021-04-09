@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.6.0](https://github.com/zppack/template-project-std/compare/v1.5.1...v1.6.0) (2021-04-09)
+
+
+### Features
+
+* support choose LICENSE file with zp-pick middleware ([4fff98a](https://github.com/zppack/template-project-std/commit/4fff98a97c64a21a59d5fd127e9f2875840e634b))
+
 ### [1.5.1](https://github.com/zppack/template-project-std/compare/v1.5.0...v1.5.1) (2021-04-08)
 
 ## [1.5.0](https://github.com/zppack/template-project-std/compare/v1.4.0...v1.5.0) (2021-04-06)
