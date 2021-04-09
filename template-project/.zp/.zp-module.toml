@@ -4,3 +4,4 @@
 # module middlewares
 [middlewares]
 '@zppack/zp-vars' = 'latest'
+'@zppack/zp-pick' = 'latest'
