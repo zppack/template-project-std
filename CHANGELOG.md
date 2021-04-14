@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.7.0](https://github.com/zppack/template-project-std/compare/v1.6.1...v1.7.0) (2021-04-14)
+
+
+### Features
+
+* support first release config ([f288295](https://github.com/zppack/template-project-std/commit/f288295aff0406efcaedb9caebacf61641d7b8fd))
+
 ### [1.6.1](https://github.com/zppack/template-project-std/compare/v1.6.0...v1.6.1) (2021-04-13)
 
 ## [1.6.0](https://github.com/zppack/template-project-std/compare/v1.5.1...v1.6.0) (2021-04-09)
