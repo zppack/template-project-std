@@ -1,6 +1,6 @@
-# {{projectName}}
+# {{{projectName}}}
 
-{{description}}
+{{{description}}}
 
 ## Features
 
